@@ -1,0 +1,33 @@
+body {
+    background-color: cadetblue;
+}
+
+.header_div {
+    color: black;
+    background-color: darkcyan;
+    margin-top: 10px;
+    font-family: fantasy;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: gray;
+    font-size: 20px;
+    width: 100%;
+    color: white;
+    padding: 5px;
+}
+
+.header_div p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-family: serif;
+}
